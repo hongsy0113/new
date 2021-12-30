@@ -3,5 +3,5 @@
 코드코드22
 
 def cart2:
-    cart car2
+    cart car22
     
